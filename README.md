@@ -1,8 +1,8 @@
 ### Hi there! I'm Alex. 👋
 
-I am a student at the University of Michigan graduating in June 2025, with a double major in computer science and sociology. 
+I am a student at the University of Michigan graduating this summer, with a double major in computer science and sociology. 
 
-I am especially interested in full-stack development and currently serve as a Tech Fellow at CodePath, where I help underserved students master intermediate full-stack concepts. I am also a lead developer for a startup, Concord Systems Corp., managing a team of twelve. There, I've worked on both an OTC client/admin platform, built with React.js and Flask, as well as R&D for crypto strategy profitability analysis.
+I am especially interested in full-stack development and currently serve as a Tech Fellow at CodePath, where I help underserved students master full-stack concepts. I also work as a software engineer for Ballet & Books, a nonprofit that advances educational equity by combining early literacy instruction with creative movement. There, I'm building core AWS features—including authentication, role-based views, and cloud data storage—as well as a Next.js/TypeScript frontend to support volunteers, administrators, and program participants.
 
 Outside of my academic and professional life, I love to rock climb 🧗, snowboard 🏂, read 📚, and discover new places (cafés, museums, libraries, etc.!) to camp out with my laptop 💻.
 

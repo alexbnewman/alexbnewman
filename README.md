@@ -8,3 +8,5 @@ Outside of my academic and professional life, I love to rock climb 🧗, snowboa
 
 - 📫 How to reach me: alnew@umich.edu
 - 😄 Pronouns: She/Her
+
+<!-- <a href="#"><img align="center" src="https://github-readme-stats-alexbnewmans-projects.vercel.app/api/top-langs/?username=alexbnewman&hide=java&langs_count=10&v=174&theme=dark&layout=compact&hide_border=true&bg_color=0D1117&exclude_repo=readme-card" height="220px" alt="Most used languages"></a> -->
